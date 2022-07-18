@@ -30,8 +30,8 @@
 <!-- language and tools end -->
 
 <!-- Most used language -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifathossain290&show_icons=true&locale=en&layout=compact" alt="rifathossain290" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifathossain290&show_icons=true&locale=en&layout=compact" alt="rifathossain290" /></p>
+ -->
 <!-- github stats -->
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rifathossain290&show_icons=true&locale=en" alt="rifathossain290" /></p>
 
